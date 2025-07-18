@@ -22,7 +22,7 @@ int main()
 
 	cout << --c * 10 << "\t" << c << endl; // 先-1再取值运算 
 	cout << d-- * 10 << "\t" << d << endl; // 先取值运算后-1
-
+	
 	system("pause");
 	return 0;
 }
