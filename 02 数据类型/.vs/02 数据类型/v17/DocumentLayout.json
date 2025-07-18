@@ -26,11 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
@@ -40,7 +48,7 @@
               "RelativeDocumentMoniker": "04 \u5B57\u7B26\u578B.cpp",
               "ToolTip": "E:\\C\u002B\u002B\\VS\u9879\u76EE\\02 \u6570\u636E\u7C7B\u578B\\04 \u5B57\u7B26\u578B.cpp",
               "RelativeToolTip": "04 \u5B57\u7B26\u578B.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-17T13:07:53.461Z",
               "EditorCaption": ""
@@ -55,8 +63,7 @@
               "RelativeToolTip": "03 \u5B9E\u578B.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-17T12:55:17.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:55:17.753Z"
             },
             {
               "$type": "Document",
@@ -68,8 +75,7 @@
               "RelativeToolTip": "02 sizeof\u5173\u952E\u5B57.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-17T12:31:57.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:31:57.841Z"
             },
             {
               "$type": "Document",
@@ -81,8 +87,7 @@
               "RelativeToolTip": "01 \u6574\u578B.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-17T12:07:43.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T12:07:43.21Z"
             }
           ]
         }

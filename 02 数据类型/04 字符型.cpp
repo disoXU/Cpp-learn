@@ -25,6 +25,7 @@ int main()
 	cout << (int)ch << endl; //a->97, A->65
 	ch = 98; //对字符型变量赋值可以直接用对应的ASCII码
 	cout << ch << endl;
+	// 修改
 
 	system("pause");
 	return 0;
