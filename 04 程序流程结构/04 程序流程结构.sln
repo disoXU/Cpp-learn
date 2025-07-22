@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 程序流程结构", "04 程序流程结构.vcxproj", "{3081F902-87F7-41B6-A06B-07938753AEE6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 程序流程结构2", "..\04 程序流程结构2\04 程序流程结构2.vcxproj", "{0046DCA4-B2AE-4898-9C79-E05BD9B6FCFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{3081F902-87F7-41B6-A06B-07938753AEE6}.Release|x64.Build.0 = Release|x64
 		{3081F902-87F7-41B6-A06B-07938753AEE6}.Release|x86.ActiveCfg = Release|Win32
 		{3081F902-87F7-41B6-A06B-07938753AEE6}.Release|x86.Build.0 = Release|Win32
+		{0046DCA4-B2AE-4898-9C79-E05BD9B6FCFE}.Debug|x64.ActiveCfg = Debug|x64
+		{0046DCA4-B2AE-4898-9C79-E05BD9B6FCFE}.Debug|x64.Build.0 = Debug|x64
+		{0046DCA4-B2AE-4898-9C79-E05BD9B6FCFE}.Debug|x86.ActiveCfg = Debug|Win32
+		{0046DCA4-B2AE-4898-9C79-E05BD9B6FCFE}.Debug|x86.Build.0 = Debug|Win32
+		{0046DCA4-B2AE-4898-9C79-E05BD9B6FCFE}.Release|x64.ActiveCfg = Release|x64
+		{0046DCA4-B2AE-4898-9C79-E05BD9B6FCFE}.Release|x64.Build.0 = Release|x64
+		{0046DCA4-B2AE-4898-9C79-E05BD9B6FCFE}.Release|x86.ActiveCfg = Release|Win32
+		{0046DCA4-B2AE-4898-9C79-E05BD9B6FCFE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
